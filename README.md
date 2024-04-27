@@ -43,7 +43,7 @@ Licenciatura en Ingeniería Civil, 2005 - 2010
 
 ## Contacto
 
-- **Email:** [email@dominio.com](mailto:franklin.huaytalla.aldana@gmail.com)
+- **Email:** [franklin.huaytalla.aldana@gmail.com](mailto:franklin.huaytalla.aldana@gmail.com)
 - **LinkedIn:** [linkedin.com/in/franklinhuaytalla](https://www.linkedin.com/in/frankl-huaytalla-aldana-8823994a/?originalSubdomain=pe)
-- **GitHub:** [github.com/franklinhuaytalla]([https://github.com/franklinhuaytalla](https://github.com/FRANKLHA))
+- **GitHub:** [github.com/franklinhuaytalla](https://github.com/FRANKLHA)
 
